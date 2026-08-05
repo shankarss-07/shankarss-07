@@ -1,85 +1,72 @@
-<h1 align="center">Hi 👋, I'm Shankar S S</h1>
-<h3 align="center">Computer Science Engineering Student | Java Developer | Python Enthusiast | Cloud & AI Learner</h3>
+# 💫 About Me:
+I am a Computer Science Engineering student passionate about software development, problem-solving, and learning new technologies. I enjoy building real-world applications and continuously improving my programming skills through projects and open-source learning.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shankarss-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Java | Python | Web Development
+- 🌱 Currently learning Full Stack Development, Cloud Computing & AI
+- 🚀 Interested in Backend Development and Software Engineering
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/shankar-s-s-44922431b
 
 ---
 
-# 💫 About Me
+# 💻 Tech Stack:
 
-🎓 B.Tech Computer Science Engineering Student
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-💻 Passionate about Software Development, Java, Python, and Cloud Computing
+---
 
-🌱 Currently learning
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=shankarss-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shankarss-07&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shankarss-07&theme=tokyonight&layout=compact&hide_border=true)
+
+---
+
+# 🚀 Popular Repositories
+
+### 📌 Portfolio Website
+Professional portfolio website built using HTML, CSS and JavaScript.
+
+### 📌 Java Projects
+Java-based applications showcasing OOP concepts and GUI development.
+
+### 📌 Python Projects
+Automation, Data Science, and Machine Learning mini-projects.
+
+### 📌 Web Development
+Responsive websites using HTML, CSS, JavaScript, and Bootstrap.
+
+### 📌 Database Projects
+MySQL and MongoDB projects with CRUD operations.
+
+---
+
+# 🌱 Currently Learning
+
 - Data Structures & Algorithms
 - Full Stack Development
-- Google Cloud
-- Artificial Intelligence & Machine Learning
-
-🚀 Interested in
-- Software Engineering
-- Backend Development
-- Cloud Technologies
-- Open Source
-
-📫 Reach me:
-**LinkedIn:** https://www.linkedin.com/in/shankar-s-s-44922431b
+- Google Cloud Platform
+- Artificial Intelligence
+- Machine Learning
 
 ---
 
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shankar-s-s-44922431b" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
-</a>
-
-
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,mysql,mongodb,git,github,gitlab,gcp,arduino" />
-</p>
-
-### Software
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,anaconda" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shankarss-07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shankarss-07&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarss-07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 [![Shankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shankarss-07&theme=tokyo-night)](https://github.com/shankarss-07)
 
@@ -87,56 +74,18 @@
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=shankarss-07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=shankarss-07&theme=tokyonight&no-frame=true&no-bg=true)
 
 ---
 
-# 🚀 Currently Learning
+# 🌐 Connect with Me
 
-- ☁️ Google Cloud Platform
-- 🤖 Artificial Intelligence
-- 📊 Data Science
-- 🌐 Full Stack Development
-- ⚡ Spring Boot
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shankar-s-s-44922431b)
 
 ---
 
-# 💡 Areas of Interest
-
-- Java Development
-- Backend Engineering
-- Cloud Computing
-- Artificial Intelligence
-- Machine Learning
-- Open Source
-- Database Management
+![](https://visitcount.itsvg.in/api?id=shankarss-07&icon=5&color=12)
 
 ---
 
-# 📚 Languages
-
-- English
-- Kannada
-- Hindi
-
----
-
-# ✨ Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-<p align="center">
-
-### 👀 Profile Visitors
-
-<img src="https://visitcount.itsvg.in/api?id=shankarss-07&icon=5&color=6"/>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+> *"Learning never stops. Every project is a new opportunity to grow as a developer."*

@@ -166,7 +166,7 @@ Interactive visualization platform for learning algorithms.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shankar-s-s-44922431b">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>linkedin
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 
 ---

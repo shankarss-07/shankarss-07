@@ -28,7 +28,7 @@
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/shankar-s-s-44922431b
 
-🌐 **GitHub:** https://github.com/shankarss-07
+
 
 ---
 
@@ -151,18 +151,6 @@ Interactive visualization platform for learning algorithms.
 
 ---
 
-# 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shankarss-07&theme=tokyo-night)](https://github.com/shankarss-07)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=shankarss-07&theme=tokyonight&no-frame=true&margin-w=8)
-
----
-
 # 🌱 Currently Learning
 
 - Spring Boot
@@ -178,17 +166,8 @@ Interactive visualization platform for learning algorithms.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shankar-s-s-44922431b">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>linkedin
 </a>
-
-<a href="https://github.com/shankarss-07">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</a>
-</p>
-
----
-
-![](https://visitcount.itsvg.in/api?id=shankarss-07&icon=5&color=12)
 
 ---
 

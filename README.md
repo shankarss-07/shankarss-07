@@ -29,21 +29,6 @@
 🔗 **LinkedIn:** https://www.linkedin.com/in/shankar-s-s-44922431b
 
 
-
----
-
-# 🎓 Education
-
-**Bachelor of Technology (Computer Science Engineering)**
-
-🏫 Srinivas Institute of Technology, Mangalore
-
-📅 2023 – 2027
-
-📊 CGPA: **7.5/10**
-
----
-
 # 💻 Tech Stack
 
 ### Languages

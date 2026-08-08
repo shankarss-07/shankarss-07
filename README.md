@@ -99,7 +99,7 @@ Interactive visualization platform for learning algorithms.
 
 **Tech Stack**
 
-`JavaScript` • `HTML5` • `CSS3` • `D3.js`
+`JavaScript` • MondoDB, Express,Reactjs,Nodjs
 
 ---
 

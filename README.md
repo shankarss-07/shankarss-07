@@ -28,9 +28,6 @@
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/shankar-s-s-44922431b
 
-
-# 💻 Tech Stack
-
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -58,9 +55,7 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 📌 FlowTrack
+# 📌 FlowTrack
 
 **Enterprise Task Management System**
 
